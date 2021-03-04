@@ -2,11 +2,11 @@
 
 ## [Status](https://tc39.github.io/process-document/)
 
-**Stage**: 1
+**Stage**: 0
 
-**Author**: Kat Marchán (npm, [@zkat__](https://twitter.com/zkat__))
+**Author**: Kat Marchán (npm, [@zkat\_\_](https://twitter.com/zkat__))
 
-**Champions**: Brian Terlson (Microsoft, [@bterlson](https://twitter.com/bterlson)), Sebastian Markbåge (Facebook, [@sebmarkbage](https://twitter.com/sebmarkbage)), Kat Marchán (npm, [@zkat__](https://twitter.com/zkat__))
+**Champions**: Brian Terlson (Microsoft, [@bterlson](https://twitter.com/bterlson)), Sebastian Markbåge (Facebook, [@sebmarkbage](https://twitter.com/sebmarkbage)), Kat Marchán (npm, [@zkat\_\_](https://twitter.com/zkat__))
 
 ## Introduction
 
@@ -90,6 +90,7 @@ version:
 }
 </Fetch>
 ```
+
 (via [Divjot Singh](https://twitter.com/bogas04/status/977499729557839873))
 
 General structural duck-typing on an API for vector-likes.
@@ -105,5 +106,5 @@ getLength({x: 1, y: 2, z: 3}) // 3.74165
 
 ## Implementations
 
-* [Babel Plugin](https://github.com/babel/babel/pull/9318)
-* [Sweet.js macro](https://github.com/natefaubion/sparkler) (NOTE: this isn't based on the proposal, this proposal is partially based on it!)
+- [Babel Plugin](https://github.com/babel/babel/pull/9318)
+- [Sweet.js macro](https://github.com/natefaubion/sparkler) (NOTE: this isn't based on the proposal, this proposal is partially based on it!)
